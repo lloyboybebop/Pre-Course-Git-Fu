@@ -1,15 +1,11 @@
 # Pre Course Git Fu
-[Pre Class Video](https://youtu.be/ZihgMcrHOF4)
-## Terms for learning Git
- * Repository - 
- * Git - Version Control - 
- * Clone - 
- * Fork -
- * History -
- * Staging -
- * Remote - 
- * Commit -
- * Push -
+* Repository
+* Git - Version Control -
+* Clone -
+* Fork -
+* History -
+* Staging -
+* Remote -
 
 ## Steps to our Lamba School Git Flow
 1. Fork repository
